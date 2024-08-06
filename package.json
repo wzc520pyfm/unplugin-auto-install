@@ -1,7 +1,7 @@
 {
   "name": "unplugin-auto-install",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "packageManager": "pnpm@8.6.12",
   "description": "A universal bundler plugin which automatically installs dependencies that are imported by a bundle, even if not yet in `package.json`.",
   "license": "MIT",
